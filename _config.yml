@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Changseong Page # the website title (if blank, full name will be used instead)
 first_name: Seong
 middle_name: Chang
 last_name: Kim
@@ -267,8 +267,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Changseong]
+  first_name: [Kim, K.]
 
   style: apa
   locale: en
