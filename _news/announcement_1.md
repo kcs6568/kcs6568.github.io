@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My Birthday! ✨ 😄
+My Birthday! :sparkles: :smile:
